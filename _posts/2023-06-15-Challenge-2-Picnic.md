@@ -17,6 +17,7 @@ This challenge is from the [Tiny Python Projects](http://tinypythonprojects.com/
 # Picnic Challenge Brief
 
 From [the Tiny Python Projects repo](https://github.com/kyclark/tiny_python_projects/tree/master/03_picnic)
+
 [YouTube Python tutorial](https://www.youtube.com/playlist?list=PLhOuww6rJJNMuQohHrNxRjhFTR9UlUOIa)
 
 Write a program that will correctly format the items we're taking on our picnic.
