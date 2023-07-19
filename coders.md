@@ -16,7 +16,7 @@ permalink: coders
 {% for coder in coders %}
 
 <tr>
-    <td><img class = "profilepic" src="https://github.com/{{coder.github}}.png?size=100"></td>
+    <td><img width=100 class = "profilepic" src="https://github.com/{{coder.github}}.png?size=100"></td>
     <td>{{coder.name}}</td>
     <td>{{coder.langs}}</td>
     <td><a href="https://github.com/{{coder.github}}">{{coder.github}}</a></td>
