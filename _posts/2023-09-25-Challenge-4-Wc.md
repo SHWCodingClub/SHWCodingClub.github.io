@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Challenge 14 - wc"
+title: "Challenge 4 - wc"
 description: "For meeting Wednesday 18th October"
 author: Andy Baxter
 ---
 
-This challenge is from the [Tiny Python Projects](http://tinypythonprojects.com/) book and can be tackled in a language of your choice. We'll meet on the 19th of July to compare answers!
+This challenge is from the [Tiny Python Projects](http://tinypythonprojects.com/) book and can be tackled in a language of your choice. We'll meet on the 18th October to compare answers!
 
 ## Clubbers' submissions on GitHub:
 
